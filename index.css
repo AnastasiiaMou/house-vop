@@ -1,0 +1,132 @@
+body {
+background-color: #242B33;
+font-family: 'Poppins', sans-serif;
+width: 1920px;
+
+}
+
+.menu {
+color: white;
+padding-top: 30px;
+
+}
+
+.bg_img {
+    background-image: url(/Rectangle.png);
+    height: 840px;
+}
+.text_start {
+    margin: 100px 0;
+    color: #D4C17F;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    padding-top: 50px;    
+}
+
+.screen1 {
+    flex-direction: column;
+    
+}
+.text_scr1 {
+    color: white;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.loft {
+    position: relative;
+}
+
+.loft1 {
+    background-image: url(/pic/1fl.png);
+    background-repeat: no-repeat;
+}
+.loft2 {
+    background-image: url(/pic/2fl.png);
+    background-repeat: no-repeat;
+}
+.txt_loft {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.look {
+    background-image: url(/pic/bg2.png);
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 560px;
+    padding-top: 200px;
+}
+.look_txt_t {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    color: #D4C17F;
+}
+
+.inp {
+    width: 255px;
+    height: 50px;
+    background: white;
+    opacity: 0.2;
+    text-align: center;
+}
+
+.but {
+    background: #D4C17F;
+    width: 255px;
+    height: 50px;
+    color: white;
+    border: none;
+    float: right;
+    margin-right: 415px;
+    margin-top: 30px;
+
+}
+
+.conf {
+    width: 255px;
+    height: 50px;
+    color: white;
+    font-size: 13px;
+line-height: 16px;
+text-align: center;
+color: #E7E7E7;
+margin-top: 30px;
+text-align: center;
+}
+
+.faq {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.low_but {
+    background: #D4C17F;
+    width: 255px;
+    height: 50px;
+    color: white;
+    border: none;
+}
+
+.footer {
+    
+    color: white;
+    height: 272px;
+    font-size: 14px;
+    padding-top: 100px;
+}
+
+.list_f {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.icon_f {
+    margin-right: 15px;
+}
